@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nome": "Mariana Souza",
+    "cargo": "Atendente",
+    "salario": 1850.50,
+    "dataContratacao": "2022-03-15",
+    "avatar":"https://static.vecteezy.com/ti/vetor-gratis/p1/14194198-icone-de-avatar-humano-distintivo-de-uma-pessoa-simbolo-de-perfil-de-midia-social-o-simbolo-de-uma-pessoa-vetor.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Carlos Pereira",
+    "cargo": "Lavador",
+    "salario": 2100.00,
+    "dataContratacao": "2021-11-02",
+    "avatar":"https://static.vecteezy.com/system/resources/previews/052/755/981/non_2x/a-man-profile-avatar-icon-with-a-white-background-free-vector.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Fernanda Lima",
+    "cargo": "Passadeira",
+    "salario": 1950.75,
+    "dataContratacao": "2023-01-20",
+    "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqJ5YuJ022cGNFqnW_3hd6pHaJNx300ZSPDQ&s"
+  },
+  {
+    "id": 4,
+    "nome": "João Batista",
+    "cargo": "Gerente",
+    "salario": 3500.00,
+    "dataContratacao": "2020-08-10",
+    "avatar":"https://static.vecteezy.com/ti/vetor-gratis/p1/6487917-homem-avatar-icone-gratis-vetor.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Aline Rocha",
+    "cargo": "Auxiliar de Lavanderia",
+    "salario": 1700.00,
+    "dataContratacao": "2024-02-05",
+    "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNCwO1zENxsGtaimEYC_fsVQW9P3oo1O5y5w&s"
+  },
+  {
+    "id": 6,
+    "nome": "Ricardo Alves",
+    "cargo": "Motorista",
+    "salario": 2200.30,
+    "dataContratacao": "2022-07-18",
+    "avatar":"https://img.freepik.com/vetores-gratis/ilustracao-do-jovem-sorridente_1308-173524.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Patrícia Gomes",
+    "cargo": "Atendente",
+    "salario": 1820.00,
+    "dataContratacao": "2023-06-12",
+    "avatar":"https://img.freepik.com/vetores-premium/mulher-de-negocios-ilustracao-vetorial-de-personagens_1133257-2432.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 8,
+    "nome": "Eduardo Martins",
+    "cargo": "Técnico de Manutenção",
+    "salario": 2800.90,
+    "dataContratacao": "2021-04-25",
+    "avatar":"https://www.tm-town.com/assets/default_male600x600-e660e1a712abfc5f638f435f6ef5432c69c6d9250b10cd43bbaa943e55980d5a.png"
+  },
+  {
+    "id": 9,
+    "nome": "Juliana Freitas",
+    "cargo": "Passadeira",
+    "salario": 2000.00,
+    "dataContratacao": "2022-09-30",
+    "avatar":"https://img.freepik.com/vetores-premium/o-avatar-do-perfil-de-usuario-feminino-e-uma-mulher-um-personagem-para-um-protetor-de-tela-com-emocoes_505620-617.jpg"
+  },
+  {
+    "id": 10,
+    "nome": "Lucas Ribeiro",
+    "cargo": "Auxiliar de Lavanderia",
+    "salario": 1750.60,
+    "dataContratacao": "2024-05-14",
+    "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLezdd8JLc9KUtJIRJSv6eLknPQ0sCa0gjnA&s"
+  }
+]
